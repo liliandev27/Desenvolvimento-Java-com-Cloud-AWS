@@ -21,4 +21,6 @@ GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle 
 
 -Autenticação via token:
 
-Desde de 2021 o Github deixou de utlizar senhas como forma de autenticação.
+Desde de 2021 o Github deixou de utlizar senhas como forma de autenticação, para dificultar que algum invasor consiga descubrir sua senha.
+*Exemplificando: Ao acessar sua conta do GitHub, você deve criar um repositrio privado.
+*Após isso, você irá clicar no botão verde escrito '<>Code', deixa marcado a opção 'HTTPS' e copia a Url que está abaixo dela.
