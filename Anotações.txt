@@ -1,0 +1,12 @@
+Curso: Desenvolvimento Java com Cloud AWS
+
+1. O que é Versionamento de Código?
+O versionamento de código se trata do gerenciamento de mudanças em códigos e scripts. Durante o desenvolvimento de uma aplicação tecnológica, correções e novas implementações são criadas diariamente.
+
+2. O que é GIT?
+O Git é um dos sistemas de controle de versão mais utilizados no mundo de desenvolvimento de software. Ele é um projeto de código aberto desenvolvido em 2005 por Linus Torvalds, o criador do kernel do Linux.
+
+3. O que é Github?
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. 
+
+4.
