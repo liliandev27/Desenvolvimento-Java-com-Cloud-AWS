@@ -1,4 +1,4 @@
-Curso: Desenvolvimento Java com Cloud AWS
+-Curso: Desenvolvimento Java com Cloud AWS
 
 1. O que é Versionamento de Código?
 O versionamento de código se trata do gerenciamento de mudanças em códigos e scripts. Durante o desenvolvimento de uma aplicação tecnológica, correções e novas implementações são criadas diariamente.
@@ -9,4 +9,16 @@ O Git é um dos sistemas de controle de versão mais utilizados no mundo de dese
 3. O que é Github?
 GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. 
 
-4.
+
+-Configurando o Git:
+
+*Vá na pasta a ser utilizada e click com o botão direito do seu mouse.
+*Click em Git Bash Hero, abrirá um terminal.
+*Digite o seguinte comando: 'git config --global user.name "seu nome" ', adicionará seu nome, para confirmar é só digitar o mesmo comando sem adicionar o nome de usuário
+*Digite o seguinte comando: 'git config --global user.email "seu email" ', adicionará seu email, para confirmar é só digitar o mesmo comando sem adicionar o email
+*Com o comando 'git config init.defautBranch', ele retorna a Branch utilizada. Para alterar a Branch basta digitar o mesmo comando adicionando na frente o nome da Branch a ser utilizada.
+
+
+-Autenticação via token:
+
+Desde de 2021 o Github deixou de utlizar senhas como forma de autenticação.
